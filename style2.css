@@ -1,0 +1,70 @@
+body {
+	background: radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -webkit- radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -moz-radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -o-radial-gradient(blue, red, yellow, fuchsia,purple);
+	opacity: 100px;
+}
+.div1{
+	text-align: center;
+	font-style: italic;
+	border-width: 10px;
+	border-style: groove;
+	border-top-left-radius:14px ;
+	border-bottom-right-radius: 16px;
+
+}
+
+.para2{
+	font-style: italic;
+	font-weight: bold;
+	color: aqua;
+	letter-spacing: 10px;
+	text-shadow: 2px 2px 2px black;
+	border-width: 10px;
+	border-style: dashed;
+	border-top-left-radius:14px ;
+	border-bottom-right-radius: 16px;
+	text-align: center;
+}
+.div3{
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px 2px black;
+	border-width: 10px;
+	border-style: inset;
+	border-radius: 18px;
+}
+.div4{
+	font-style: oblique, sans-serif;
+	letter-spacing: 2px;
+	border-width: 10px;
+	border-style: outset;
+	border-radius: 25px;
+	text-align: center;
+
+}
+.div5{
+	font-style: italic, oblique, Garamond;
+	border-radius: 48px;
+	border-width: 10px;
+	border-style: ridge;
+	text-align: center;
+}
+.div6{
+	font-style: italic;
+	border-width: 10px;
+	border-style: dashed;
+	border-radius: 56px;
+	text-align: center;
+}
+img{
+	height: 1000px;
+	display: block;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 1px;
+
+
+}

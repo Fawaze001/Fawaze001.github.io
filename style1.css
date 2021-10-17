@@ -1,0 +1,24 @@
+body {
+	background: radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -webkit- radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -moz-radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -o-radial-gradient(blue, red, yellow, fuchsia,purple);
+	opacity: 100px;
+}
+.div1{
+	text-align: justify;
+	font-style: italic;
+}
+h1{
+	font-weight: bold;
+	text-decoration: underline;
+	color: aqua;
+	letter-spacing: 10px;
+	text-shadow: 2px 2px 2px black;
+	border-width: 5px;
+	border-style: dashed;
+	border-top-left-radius:18px ;
+	border-bottom-right-radius: 16px;
+	text-align: center;
+	font-size: 100px;
+}

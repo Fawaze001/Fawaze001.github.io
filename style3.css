@@ -1,0 +1,7 @@
+body {
+	background: radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -webkit- radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -moz-radial-gradient(blue, red, yellow, fuchsia,purple);
+	background: -o-radial-gradient(blue, red, yellow, fuchsia,purple);
+	opacity: 100px;
+}
